@@ -1,4 +1,4 @@
-# COVID-19-bulletin-board
+# Bulletin board
 Create a board to report COVID-19 status.
 # Feature
 - link COVID-19 API to get the information.
